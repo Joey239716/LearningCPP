@@ -1,0 +1,12 @@
+# Ignore the specific compiled file you just made
+tutorial0
+
+# Ignore any other Mac executables (files without extensions)
+*
+!*.*
+!*/
+
+# Ignore common junk
+.DS_Store
+*.o
+*.out
